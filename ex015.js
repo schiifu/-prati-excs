@@ -1,5 +1,3 @@
-const prompt = require('prompt-sync')({sigint:true})
-
 let numbb1 = 0, numbb2 = 1
 console.log("10 primeiro números do Fibonacci")
 for (let i = 0; i < 10; i++) {
